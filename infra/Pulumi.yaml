@@ -1,0 +1,6 @@
+name: pulumi-aws-python
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Sample AWS Python Pulumi program
