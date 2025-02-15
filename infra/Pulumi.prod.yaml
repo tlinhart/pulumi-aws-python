@@ -1,6 +1,0 @@
-encryptionsalt: v1:1zzQUosdm2I=:v1:jWjA3OIk3i0Ug7KP:i5I0kAqH1g9XcqeISJ/gp493td2PkA==
-config:
-  aws:profile: pasmen
-  aws:region: eu-central-1
-  pulumi-aws-python:ghcr-token:
-    secure: v1:iFhj5lBIOlGAwcWu:UTVOVV56gTcCValNsGmcvIoa+Q44x4ime1HphqG46tHfuOeriNceWMblvp7u8TjOhpWCDqXAFoA=
